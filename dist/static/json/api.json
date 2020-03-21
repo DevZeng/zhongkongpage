@@ -1,0 +1,7 @@
+var json = {
+	'https':'http://106.53.5.61:8085',//线上接口地址
+	// 'https':'http://192.168.1.105:8085',//本地接口地址
+    // 'qiniuHttp': 'http://p8c4tstak.bkt.clouddn.com/',//七牛云外链地址
+    // 'region': 'NCN', // 七牛云存储空间-华北区
+    // 'uptoken': 'HifgKWQEldfYfAX3naxfvwGimga8XIhl28cfFpBT:qSC0J6GS5yHp9UOEUvRcY7Wr_3I=:eyJzY29wZSI6ImxpbmdodWEiLCJkZWFkbGluZSI6MjAyNTkxODUxNX0=',//七牛云的上传凭证
+}
